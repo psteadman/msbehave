@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+
+# general
+.directory
+.Trash-*
+.DS_Store
+Icon
+._*
